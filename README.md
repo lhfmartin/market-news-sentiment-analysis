@@ -9,3 +9,4 @@ Several models will be used and evaluated to see which one is the best.
 [Chapter 1: Scrapping news from AASTOCKS](notebooks/chapter-1.ipynb)\
 [Chapter 2: Loading and visualizing data](notebooks/chapter-2.ipynb)\
 [Chapter 3: Lexicon based approaches](notebooks/chapter-3.ipynb)\
+[Chapter 4: Unigrams and n-grams](notebooks/chapter-4.ipynb)
